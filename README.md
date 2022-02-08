@@ -2,11 +2,40 @@
 
 Welcome to the code and research repository supporting MLCommon's Science Working Group.  In this repository you will find detials surrounding the implementation of a proposed MLCommons benchmark for the TEvolOp earthquake forcasting using deep learning technology.  
 
+## Clone as developer
+
+```bash
+git clone --recursive git@github.com:Data-ScienceHub/mlcommons-science.git
+cd mlcommons-science/mlcommons
+git remote set-url origin git@github.com:laszewsk/mlcommons.git
+git checkout main
+cd ..
+```
+
+
 ## Background
 
 * Presentation: https://www.youtube.com/playlist?list=PLy0VLh_GFyz9lz4ZOQIrDACQsuELQ0QnI
 
 * Presentation: <https://docs.google.com/presentation/d/1z3U10_Mrj5CSSeCMOllRL-CKpCvg6MUlmrYOnBe4N_I/edit#slide=id.gf2ef2f8fee_1_22>
+
+## Code
+
+```bash
+git clone --recursive git@github.com:Data-ScienceHub/mlcommons-science.git
+cd mlcommons-science/mlcommons
+git remote set-url origin git@github.com:laszewsk/mlcommons.git
+git checkout main
+cd ..
+```
+
+or
+
+* Earthquake Code: https://github.com/laszewsk/mlcommons/tree/main/benchmarks/earthquake
+* MNIST Code: https://github.com/laszewsk/mlcommons/tree/main/examples/mnist-tensorflow
+
+
+
 
 ## Report
 
